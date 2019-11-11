@@ -1,0 +1,17 @@
+{
+  "name": "electricity-costs-simulator-blynk",
+  "version": "1.0.0",
+  "description": "Cron script to estimate electric costs from the current month based on data collected from Blynk servers",
+  "main": "src/main.js",
+  "dependencies": {
+    "cron": "^1.7.2",
+    "moment": "^2.24.0",
+    "request-promise": "^4.2.5"
+  },
+  "scripts": {
+    "start": "node ./src/index.js"
+  },
+  "keywords": [],
+  "author": "Grupo C - Engenharia Eletrônica 2019 - UNIP Anchieta",
+  "license": "MIT"
+}
