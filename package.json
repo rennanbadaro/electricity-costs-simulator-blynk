@@ -5,7 +5,7 @@
   "main": "src/main.js",
   "dependencies": {
     "cron": "^1.7.2",
-    "moment": "^2.24.0",
+    "moment": "^2.29.2",
     "request-promise": "^4.2.5"
   },
   "scripts": {
